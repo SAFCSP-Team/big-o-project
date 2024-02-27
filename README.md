@@ -11,5 +11,5 @@ You have two algorithms with Big O Notation represented as `O(n^2)` and `O(n)`. 
 Compare the two algorithms result, and define which algorithm is better, and explain why.
 
 
-> * **Create a new issue with title Answers "[your-username]" and write your answers.
+> * Create a new issue with title "Answer [your-username]" and write your answers.
 > * Create an issue of your questions, If you face any trouble solving the project.
