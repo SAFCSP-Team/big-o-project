@@ -8,7 +8,7 @@ The objective of this project is to understand the Big O Notation, and define wh
 You have two algorithms with Big O time complexity represented as **[Insertion Sort](/src/SelectionSort.java)** `O(n^2)` and **[Heapsort](/src/HeapSort.java)** `O(n log(n))`.
 
 **Question:**
-Which algorithm is better in terms of time complexity?
+Which algorithm is better in terms of **time complexity**?
 And explain why?
 
 
