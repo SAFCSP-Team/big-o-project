@@ -1,15 +1,14 @@
 # Big O Notation
 
 ### Objective
-The objective of this project is to understand the Big O Notation, and define which algorithm is better than the other.
+The objective of this project is to understand the Big O Notation and define which algorithm is better than the other.
 
 ### Problem
 
 You have two algorithms with Big O time complexity represented as **[Insertion Sort](/src/SelectionSort.java)** `O(n^2)` and **[Heapsort](/src/HeapSort.java)** `O(n log(n))`.
 
 **Question:**
-Which algorithm is better in terms of **time complexity**?
-And explain why?
+Which algorithm is better in terms of **time complexity** and **why it's better**?
 
 
 ### Implementation
